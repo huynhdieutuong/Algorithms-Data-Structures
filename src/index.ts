@@ -1,2 +1,3 @@
 // import './2-bigO'
-import './4-problem-solving-approach'
+// import './4-problem-solving-approach'
+import './5-problem-solving-patterns'
