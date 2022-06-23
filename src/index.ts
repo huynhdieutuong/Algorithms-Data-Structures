@@ -2,4 +2,5 @@
 // import './4-problem-solving-approach'
 // import './5-problem-solving-patterns'
 // import './7-recursion'
-import './10-searching-algorithms'
+// import './10-searching-algorithms'
+import './11-sorting-algorithms'
