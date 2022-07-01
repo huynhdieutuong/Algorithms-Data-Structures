@@ -16,7 +16,7 @@ import './doubly-linked-lists'
 
 /**
  *              Singly linked list    vs      Array           vs          Doubly linked list
- * Insertion          O(1)                    O(N)                                O(1)
+ * Insertion    Begin: O(1), End: O(1)        Begin: O(N), End: O(1)      Begin: O(1), End: O(1), Mid: O(N)
  * Removal      Begin: O(1), End: O(N)        Begin: 0(N), End: 0(1)      Begin: 0(1), End: 0(1), Mid: O(N)
  * Searching          O(N)                    O(1)                        O(N), technically is O(N/2)
  *
