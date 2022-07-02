@@ -56,4 +56,4 @@ class Queue {
 }
 
 const queue = new Queue()
-// debugger
+export { QueueNode, Queue }

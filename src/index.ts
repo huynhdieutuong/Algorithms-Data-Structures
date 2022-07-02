@@ -5,4 +5,5 @@
 // import './10-searching-algorithms'
 // import './11-sorting-algorithms'
 // import './19-linked-lists'
-import './21-stacks-queues'
+// import './21-stacks-queues'
+import './22-trees'
