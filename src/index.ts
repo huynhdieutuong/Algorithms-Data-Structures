@@ -7,4 +7,5 @@
 // import './19-linked-lists'
 // import './21-stacks-queues'
 // import './22-trees'
-import './24-binary-heaps'
+// import './24-binary-heaps'
+import './25-hash-tables'
