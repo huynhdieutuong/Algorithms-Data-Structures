@@ -78,8 +78,10 @@ priQueue.enQueue(10, 0)
 priQueue.enQueue(10, 2)
 priQueue.enQueue(10, 6)
 priQueue.enQueue(10, 0)
-debugger
+
 //                     0
 //             4                1
 //          6     5         3       2
 //       7
+
+export default PriorityQueue
