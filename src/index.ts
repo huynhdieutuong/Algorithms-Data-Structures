@@ -10,4 +10,5 @@
 // import './24-binary-heaps'
 // import './25-hash-tables'
 // import './26-graphs'
-import './28-dijkstra-algorithm'
+// import './28-dijkstra-algorithm'
+import './29-dynamic-programming'
